@@ -362,7 +362,6 @@ body {
 .footer {
 	display: flex;
 	justify-content: space-between;
-	padding: 0 50px;
 	margin: 0 50px 88px 50px;
 }
 
@@ -370,6 +369,10 @@ body {
 	width: 240px;
 
 	list-style-type: none;
+}
+
+.info-list__item:nth-child(2){
+	letter-spacing: 0.01em;
 }
 
 .footer-list__item a {
