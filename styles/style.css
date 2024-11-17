@@ -371,7 +371,7 @@ body {
 	list-style-type: none;
 }
 
-.info-list__item:nth-child(2){
+.info-list__item:nth-child(2) {
 	letter-spacing: 0.01em;
 }
 
